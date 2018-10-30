@@ -1,0 +1,1 @@
+New-Item $home\Desktop\pwned.txt -ItemType file
